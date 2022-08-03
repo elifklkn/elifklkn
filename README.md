@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**elifklkn/elifklkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=Hi!+I'm+Elif)](https://git.io/typing-svg )
 
-Here are some ideas to get you started:
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/26895d107278107.5fa33954de50f.gif" width="800" height="400">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# <b>About Me</b>
+
+# <b>Reach out to me</b>
+
+[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/medium.svg" align="left" />][https://medium.com/@elifklkn13]
+# <b>Tech I Use</b>
+
+* 🌱 I’m currently learning Machine Learning.
+* 😄 Pronouns: She / Her
+* ⚡ Fun fact: ...
+
 -->
+[medium]: https://medium.com/@elifklkn13
